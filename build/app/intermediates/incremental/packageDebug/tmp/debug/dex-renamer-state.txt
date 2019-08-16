@@ -1,0 +1,4 @@
+#Tue Jul 02 21:09:48 PDT 2019
+base.0=C\:\\Users\\Steven\\Desktop\\Unit-Converter-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
